@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub." alt="Typing SVG" />
 </h2>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ismail tarek&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/ismailTareq)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ismailTareq&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/ismailTareq)
 
 <ul align="left">
   <li>👋 Hi, I’m Ismail tarek</li>
@@ -22,7 +22,7 @@
 </p>
 
 <br>
-## 🔧 Skills & Technologies:
+##🔧 Skills & Technologies:
 <p align="left">
   <img src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/clogo.png" alt="C" height="50" title="C">
   <img src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/C++%20(CPlusPlus).png" alt="C++" height="50" title="C++">
