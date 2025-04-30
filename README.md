@@ -6,8 +6,8 @@
 
 <ul align="left">
   <li>👋 Hi, I’m Ismail tarek</li>
-  <li>👨‍💻 Embedded Software Developer & IoT Enthusiast</li>
-  <li>📖 Specialized in C/C++ embedded C,RTOS,IOT,ARM/AVR,Embedded systems and much much more</li>
+  <li>👨‍💻 Embedded Linux Developer & IoT Enthusiast</li>
+  <li>📖 Specialized in C/C++ embedded C,RTOS,IOT,ARM/AVR,Embedded systems, Linux, Raspberry pi and much much more</li>
 </ul>
 
 <br><br>
