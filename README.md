@@ -37,7 +37,7 @@
 <br>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1C5XPr4NmEgterIRqZfJfSoelLrpEP_co/view?usp=sharing" target="_blank" style="text-decoration: none;">
+  <a href="https://drive.google.com/file/d/19o3G5_lNzJw9-bzUyxZD7xRGOeEnpzlE/view?usp=sharing" target="_blank" style="text-decoration: none;">
     <button style="background-color: #9B72FF; color: white; border: none; border-radius: 5px; padding: 10px 20px; font-size: 16px; cursor: pointer;">
       Download Resume
     </button>
